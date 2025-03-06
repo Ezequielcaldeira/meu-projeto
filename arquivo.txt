@@ -1,7 +1,2 @@
-Olá, DevOps!
-Essa é uma nova linha adicionada ao arquivo
-teste
-teste
-Este é um novo texto
-teste
-teste2
+este é um novo texto para concluir
+Esta é uma nova linha adicionada no arquivo. 
