@@ -1,3 +1,6 @@
 Olá, DevOps!
 Essa é uma nova linha adicionada ao arquivo
 teste
+teste
+Este é um novo texto
+teste
